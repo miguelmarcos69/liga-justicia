@@ -6,6 +6,3 @@
 3. Flash Reverso
 4. Doomsday
 5. Deadshot
-6. Harley Quinn
-7. Deathstroke
-8. Black Manta
