@@ -7,3 +7,7 @@
 * Linterna Verde
 * Robin
 * Volcán Verde!!
+* Flash
+* Cyborg
+* Detective Marciano
+
