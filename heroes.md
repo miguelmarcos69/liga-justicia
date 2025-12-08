@@ -7,3 +7,5 @@
 * Linterna Verde
 * Robin
 * Volcán Verde!!
+* Flash
+* Cyborg
